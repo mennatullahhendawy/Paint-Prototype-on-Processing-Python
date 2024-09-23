@@ -28,10 +28,8 @@ The paint program fulfills the following grading rubric:
 - Brush Shape: Different shapes like quads, triangles, and rectangles are used as brushes.
 - More than Two Colors: The program includes more than two colors for the shapes.
 
-Example Code Snippet
-##
-<tab><tab>
 
+YourCopyableTextblock
 def setup():
     size(400, 400)  # Set the canvas size
     background(255, 0, 0)  # Set the background color to red
