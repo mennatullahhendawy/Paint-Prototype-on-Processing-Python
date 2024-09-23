@@ -28,7 +28,9 @@ The paint program fulfills the following grading rubric:
 - Brush Shape: Different shapes like quads, triangles, and rectangles are used as brushes.
 - More than Two Colors: The program includes more than two colors for the shapes.
 
-Example Code Snippet{
+Example Code Snippet
+##
+<tab><tab>
 
 def setup():
     size(400, 400)  # Set the canvas size
@@ -48,4 +50,3 @@ def draw():
     stroke(200, 150, 20)  # Custom stroke for the rectangle
     rect(0, 40, 30, 20)  # Draw a rectangle
 
-}
