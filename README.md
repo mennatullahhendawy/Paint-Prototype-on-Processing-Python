@@ -29,6 +29,7 @@ The paint program fulfills the following grading rubric:
 - More than Two Colors: The program includes more than two colors for the shapes.
 
 Example Code Snippet
+
 def setup():
     size(400, 400)  # Set the canvas size
     background(255, 0, 0)  # Set the background color to red
