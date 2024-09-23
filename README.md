@@ -11,9 +11,9 @@ This repository contains a simple Paint Program created as part of the Game Deve
 Installation
 1.	Download and install Processing.
 2.	Make sure to enable Python Mode in Processing:
-o	Open Processing.
-o	Go to the "Mode" drop-down menu at the top right.
-o	Select Python mode from the list.
+- Open Processing.
+- Go to the "Mode" drop-down menu at the top right.
+- Select Python mode from the list.
 3.	Clone or download this repository to your local machine.
 4.	Open the paint_prototype.pde file in Processing.
 
@@ -25,8 +25,8 @@ Usage
 
 Code Functionality
 The paint program fulfills the following grading rubric:
-•	Brush Shape: Different shapes like quads, triangles, and rectangles are used as brushes.
-•	More than Two Colors: The program includes more than two colors for the shapes.
+- Brush Shape: Different shapes like quads, triangles, and rectangles are used as brushes.
+- More than Two Colors: The program includes more than two colors for the shapes.
 
 Example Code Snippet
 def setup():
